@@ -1,4 +1,4 @@
 Shadow Libraries
 =========
 
-A pirate libraries archive.
+In case ePubLibre is down.
